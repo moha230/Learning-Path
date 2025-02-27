@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lachi.dong/Documents/centria/C#/Part 11 - Random, files and exceptions/exception/exception.csproj": {}
+    "/Users/lachi.dong/Documents/centria/Learning path/C#/Part 11 - Random, files and exceptions/exception/exception.csproj": {}
   },
   "projects": {
-    "/Users/lachi.dong/Documents/centria/C#/Part 11 - Random, files and exceptions/exception/exception.csproj": {
+    "/Users/lachi.dong/Documents/centria/Learning path/C#/Part 11 - Random, files and exceptions/exception/exception.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lachi.dong/Documents/centria/C#/Part 11 - Random, files and exceptions/exception/exception.csproj",
+        "projectUniqueName": "/Users/lachi.dong/Documents/centria/Learning path/C#/Part 11 - Random, files and exceptions/exception/exception.csproj",
         "projectName": "exception",
-        "projectPath": "/Users/lachi.dong/Documents/centria/C#/Part 11 - Random, files and exceptions/exception/exception.csproj",
+        "projectPath": "/Users/lachi.dong/Documents/centria/Learning path/C#/Part 11 - Random, files and exceptions/exception/exception.csproj",
         "packagesPath": "/Users/lachi.dong/.nuget/packages/",
-        "outputPath": "/Users/lachi.dong/Documents/centria/C#/Part 11 - Random, files and exceptions/exception/obj/",
+        "outputPath": "/Users/lachi.dong/Documents/centria/Learning path/C#/Part 11 - Random, files and exceptions/exception/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/lachi.dong/.nuget/NuGet/NuGet.Config"
