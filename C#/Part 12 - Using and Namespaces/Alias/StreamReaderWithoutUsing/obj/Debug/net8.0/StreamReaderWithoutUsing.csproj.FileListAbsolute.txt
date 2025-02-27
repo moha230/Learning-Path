@@ -1,0 +1,14 @@
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/StreamReaderWithoutUsing/bin/Debug/net8.0/StreamReaderWithoutUsing
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/StreamReaderWithoutUsing/bin/Debug/net8.0/StreamReaderWithoutUsing.deps.json
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/StreamReaderWithoutUsing/bin/Debug/net8.0/StreamReaderWithoutUsing.runtimeconfig.json
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/StreamReaderWithoutUsing/bin/Debug/net8.0/StreamReaderWithoutUsing.dll
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/StreamReaderWithoutUsing/bin/Debug/net8.0/StreamReaderWithoutUsing.pdb
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/StreamReaderWithoutUsing/obj/Debug/net8.0/StreamReaderWithoutUsing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/StreamReaderWithoutUsing/obj/Debug/net8.0/StreamReaderWithoutUsing.AssemblyInfoInputs.cache
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/StreamReaderWithoutUsing/obj/Debug/net8.0/StreamReaderWithoutUsing.AssemblyInfo.cs
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/StreamReaderWithoutUsing/obj/Debug/net8.0/StreamReaderWithoutUsing.csproj.CoreCompileInputs.cache
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/StreamReaderWithoutUsing/obj/Debug/net8.0/StreamReaderWithoutUsing.dll
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/StreamReaderWithoutUsing/obj/Debug/net8.0/refint/StreamReaderWithoutUsing.dll
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/StreamReaderWithoutUsing/obj/Debug/net8.0/StreamReaderWithoutUsing.pdb
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/StreamReaderWithoutUsing/obj/Debug/net8.0/StreamReaderWithoutUsing.genruntimeconfig.cache
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/StreamReaderWithoutUsing/obj/Debug/net8.0/ref/StreamReaderWithoutUsing.dll

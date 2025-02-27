@@ -1,0 +1,116 @@
+3.2.3.2 Creative
+
+blender gimp 
+audacity 3d movies creation 
+
+Blender is used for everything from independent films to Hollywood movies
+
+GIMP supports high-quality photo manipulation, original artwork creation, graphic design elements, and is extensible through scripting in multiple languages
+
+Audacity is a free and open source audio editing tool that is available on multiple operating systems.
+
+To fork LibreOffice and translate the **Writer** application into your own language, you'll need to go through a few steps: forking the repository, setting up the development environment, translating strings, and building the localized version. Here's how you can achieve that:
+
+### Step 1: Fork the LibreOffice Repository
+1. **Fork the Repository**:
+   - Go to the [LibreOffice Core repository on GitHub](https://github.com/LibreOffice/core).
+   - Click the **Fork** button at the top right corner to fork the repository to your own GitHub account.
+
+2. **Clone Your Fork**:
+   Once you've forked the repository, clone your fork to your local machine:
+   ```bash
+   git clone https://github.com/your-username/core.git
+   cd core
+   ```
+
+3. **Add the Original Repo as Upstream** (optional, to keep your fork up to date):
+   ```bash
+   git remote add upstream https://github.com/LibreOffice/core.git
+   ```
+
+### Step 2: Set Up Your Development Environment
+Follow the same steps outlined earlier to set up your environment, install dependencies, and configure the build for your system.
+
+For your reference:
+- [Linux build guide](https://wiki.documentfoundation.org/Development/BuildingOnLinux)
+- [macOS build guide](https://wiki.documentfoundation.org/Development/BuildingOnMac)
+- [Windows build guide](https://wiki.documentfoundation.org/Development/BuildingOnWindows)
+
+### Step 3: Localize LibreOffice Writer
+
+1. **Find and Translate the Strings**:
+   - LibreOffice uses `.po` files (Portable Object files) for language translations.
+   - All the translatable strings for LibreOffice are stored in the **translations repository** located at [https://gerrit.libreoffice.org/gitweb?p=translations.git](https://gerrit.libreoffice.org/gitweb?p=translations.git).
+   
+   To localize LibreOffice Writer, follow these steps:
+   
+   1. Clone the **translations** repository:
+      ```bash
+      git clone https://gerrit.libreoffice.org/translations.git
+      cd translations
+      ```
+   
+   2. **Locate Your Language**:
+      - Inside the translations repository, you will find folders for various languages, each containing `.po` files for specific LibreOffice components.
+      - For Writer, you’ll find the relevant `.po` files in the **`sw/`** directory.
+      - If your language is not available, you can create a new folder with your language code (e.g., `fr`, `es`, `de`).
+
+   3. **Edit the `.po` Files**:
+      - You can use a text editor or a specialized PO file editor (such as Poedit or Gtranslator) to edit the `.po` files.
+      - Each `.po` file consists of **original strings** (in English) and their corresponding **translations**. You will translate the English strings into your target language.
+
+2. **Optional: Add a New Language Locale**:
+   - If your language is not supported by default, you'll need to add a new language locale to the LibreOffice configuration.
+   - This involves adding your language to the `localedata` module of the LibreOffice core repository.
+   - The **`localedata`** directory contains XML files that define locale information (like date, time formats, etc.) for different languages. You can create a new locale file or modify an existing one to suit your language.
+
+3. **Update the Build to Include Your Translations**:
+   - After making changes to the `.po` files, you need to update the build system to include your new translations. In the `core` directory, run:
+     ```bash
+     ./autogen.sh
+     make
+     ```
+   - The build process will now include your translations in the resulting LibreOffice Writer application.
+
+### Step 4: Build and Test Your Translated Version
+
+1. **Build LibreOffice with Your Translations**:
+   After adding your language and translating the necessary strings, build LibreOffice by running:
+   ```bash
+   make -j$(nproc)
+   ```
+
+2. **Run LibreOffice Writer in Your Language**:
+   Once the build is complete, you can launch LibreOffice Writer in your newly translated language by using the following command:
+   ```bash
+   ./instdir/program/soffice --writer -lang=<your_language_code>
+   ```
+   For example, if you are translating to French (`fr`), the command would be:
+   ```bash
+   ./instdir/program/soffice --writer -lang=fr
+   ```
+
+### Step 5: Submit Changes Back (Optional)
+
+If you want to contribute your translation back to the LibreOffice project, you can do so by creating a pull request.
+
+1. **Push Your Changes**:
+   Push your changes to your fork:
+   ```bash
+   git add .
+   git commit -m "Added translation for LibreOffice Writer in <your language>"
+   git push origin main
+   ```
+
+2. **Submit a Pull Request**:
+   - Go to your fork on GitHub and create a pull request, describing the changes you've made (specifically mentioning your translation work).
+
+### Summary:
+1. **Fork the LibreOffice core repository** and clone it locally.
+2. **Clone the translations repository** and locate or create `.po` files for your language.
+3. **Translate the strings** in LibreOffice Writer using `.po` files.
+4. **Build LibreOffice** with your new translations.
+5. **Test the localized version** of Writer.
+6. Optionally, **submit a pull request** to contribute your translation back to the community.
+
+This will give you a fully customized LibreOffice Writer application in your own language! Let me know if you need help with any of these steps.

@@ -1,0 +1,14 @@
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/Subproblems/1 Reading user input/bin/Debug/net8.0/1 Reading user input
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/Subproblems/1 Reading user input/bin/Debug/net8.0/1 Reading user input.deps.json
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/Subproblems/1 Reading user input/bin/Debug/net8.0/1 Reading user input.runtimeconfig.json
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/Subproblems/1 Reading user input/bin/Debug/net8.0/1 Reading user input.dll
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/Subproblems/1 Reading user input/bin/Debug/net8.0/1 Reading user input.pdb
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/Subproblems/1 Reading user input/obj/Debug/net8.0/1 Reading user input.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/Subproblems/1 Reading user input/obj/Debug/net8.0/1 Reading user input.AssemblyInfoInputs.cache
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/Subproblems/1 Reading user input/obj/Debug/net8.0/1 Reading user input.AssemblyInfo.cs
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/Subproblems/1 Reading user input/obj/Debug/net8.0/1 Reading user input.csproj.CoreCompileInputs.cache
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/Subproblems/1 Reading user input/obj/Debug/net8.0/1 Reading user input.dll
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/Subproblems/1 Reading user input/obj/Debug/net8.0/refint/1 Reading user input.dll
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/Subproblems/1 Reading user input/obj/Debug/net8.0/1 Reading user input.pdb
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/Subproblems/1 Reading user input/obj/Debug/net8.0/1 Reading user input.genruntimeconfig.cache
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/Subproblems/1 Reading user input/obj/Debug/net8.0/ref/1 Reading user input.dll

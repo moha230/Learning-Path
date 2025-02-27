@@ -1,0 +1,27 @@
+3.7.1 Linux in the Cloud
+
+So what makes Linux uniquely suited to enabling cloud computing?
+
+Flexibility
+Accessibility
+Cost-Effective
+Manageability
+Security
+Virtualization:
+virtualization is the process where one physical computer called a host runs multiple copies of an operating system each coy called a guest 
+These guest images can be pre-configured for specific functions to allow rapid deployment,
+the host system runs an application called the host hypervisor that switches resources between the various guests just like the Linux kernel does for individual processes.
+
+bare metal hypervisor runs directly on a computer hardware rather than on top of an os freeing up more resources for guest images . 
+
+virtualization works servers spend most of their time idling and dont need pysical resources such as monitores and keyboards 
+
+Workstation VirtualBox 
+
+Containers and Bare Metal Deployments
+
+Containers:
+
+Imagine you're building a project with a lot of tools, like a hammer, nails, and wood. If you want to move this project to another workshop, you'd have to make sure the other workshop has the same tools, right? Containers are like special boxes that pack everything you need for your project, so you can move it anywhere, and it will work the same, without needing to find all the tools again.
+
+Kubernetes (often called "K8s") is a powerful system that helps manage and run applications inside containers (like the ones Docker creates) across many computers. Think of Kubernetes as a big manager or conductor that takes care of many containers, making sure they run smoothly, can talk to each other, and can be fixed or replaced automatically if something goes wrong.

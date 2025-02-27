@@ -1,0 +1,14 @@
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/StreamReaderWithUsing/bin/Debug/net8.0/StreamReaderWithUsing
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/StreamReaderWithUsing/bin/Debug/net8.0/StreamReaderWithUsing.deps.json
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/StreamReaderWithUsing/bin/Debug/net8.0/StreamReaderWithUsing.runtimeconfig.json
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/StreamReaderWithUsing/bin/Debug/net8.0/StreamReaderWithUsing.dll
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/StreamReaderWithUsing/bin/Debug/net8.0/StreamReaderWithUsing.pdb
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/StreamReaderWithUsing/obj/Debug/net8.0/StreamReaderWithUsing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/StreamReaderWithUsing/obj/Debug/net8.0/StreamReaderWithUsing.AssemblyInfoInputs.cache
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/StreamReaderWithUsing/obj/Debug/net8.0/StreamReaderWithUsing.AssemblyInfo.cs
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/StreamReaderWithUsing/obj/Debug/net8.0/StreamReaderWithUsing.csproj.CoreCompileInputs.cache
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/StreamReaderWithUsing/obj/Debug/net8.0/StreamReaderWithUsing.dll
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/StreamReaderWithUsing/obj/Debug/net8.0/refint/StreamReaderWithUsing.dll
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/StreamReaderWithUsing/obj/Debug/net8.0/StreamReaderWithUsing.pdb
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/StreamReaderWithUsing/obj/Debug/net8.0/StreamReaderWithUsing.genruntimeconfig.cache
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/StreamReaderWithUsing/obj/Debug/net8.0/ref/StreamReaderWithUsing.dll

@@ -1,0 +1,78 @@
+Hello we are Yes, the **others** category can include people who connect to your computer over the internet or a local network, depending on how your system is configured and the services you are running. Let me explain how this works and how permissions apply to people accessing your files remotely.
+
+### 1. **Local Users (on the Same Machine)**
+By default, when we talk about **others** in terms of file permissions, we mean users who are:
+- Not the owner of the file.
+- Not part of the group assigned to the file.
+
+These users can be people who log into the same physical machine, either directly or by using a shared account.
+
+### 2. **Remote Users (on a Network or via the Internet)**
+If you have set up your system to allow access over the network or internet, **others** can include people connecting remotely. For example:
+- If you are sharing files over a local network (e.g., using **File Sharing** in macOS or **Samba** in Linux).
+- If you're running a **web server** or a **file server** that allows remote connections.
+- If you've configured **SSH** (Secure Shell) or **FTP** (File Transfer Protocol) to allow others to log in and access files remotely.
+
+### Remote Access Permissions
+When remote users access your system, they interact with files and directories based on the same permission model of **user**, **group**, and **others**.
+
+#### Example 1: File Sharing (Over Local Network or Internet)
+On macOS or Linux, you can share files with other computers on your local network (or over the internet if configured).
+- In macOS, you can enable **File Sharing** in **System Preferences** > **Sharing**.
+- You can then choose which folders to share and set access permissions for **Everyone** (which corresponds to **others** in file permissions).
+
+If you set the folder’s permissions to "Read & Write" for **Everyone** (the equivalent of **others** in the terminal), anyone on the network who connects to your machine can access and edit those files.
+
+#### Example 2: SSH or FTP Access (Remote Command Line Access)
+Suppose you are running an **SSH** server or **FTP** server on your machine, and users are connecting over the internet. When they log in, they are treated just like local users, and file permissions apply:
+- If the user is not the file's owner and is not part of the group that the file belongs to, they fall into the **others** category.
+- Whatever permissions are granted to **others** will dictate what they can do — for example, they may only have read access but not write or execute permissions.
+
+### Example of Remote User Permissions
+
+Suppose you run a web server, and a file on your system has these permissions:
+
+```bash
+-rw-r--r--  1 alice  staff  1024 Sep 19 07:03 index.html
+```
+
+This means:
+- **User (alice)** has read and write access to the `index.html` file.
+- **Group (staff)** has read-only access.
+- **Others** (this includes everyone else, including users connected over the internet) also have read-only access.
+
+If your web server is configured to serve this file, any user on the internet can access the file in a browser (because the **others** category has read permissions). But they won't be able to modify the file because they don't have write permission.
+
+### Example: FTP Access
+If you configure an **FTP server**, remote users logging in will have permissions based on the file's **user**, **group**, and **others** settings. If the file's permissions for others allow write access, remote users could modify the file; if not, they can only read it.
+
+For example, if you have a file like this:
+
+```bash
+-rw-rw-r--  1 lachi.dong staff 2048 Sep 19 07:03 shared_file.txt
+```
+
+- **User (lachi.dong)** and **Group (staff)** can both read and write the file.
+- **Others** (remote users connecting via FTP) can only read the file (`r--`), but they can't modify it because there's no write permission for others.
+
+### Security Considerations
+When allowing others (especially remote users over the internet) to access your files:
+- Be very cautious with write and execute permissions. Giving **others** full access to files can be dangerous, especially if they are not trusted users.
+- If files are shared over the internet, consider restricting access to specific users or groups instead of giving **others** broad permissions.
+
+### Practical Usage
+- **Public Websites**: Files in web directories are often world-readable (accessible to **others**) so that anyone on the internet can access them, but they are not writable unless necessary.
+- **Shared Folders**: If you're sharing a folder over a network, the **others** category applies to people who are not the owner or group but can access it via file sharing services.
+
+### How to Control Remote Access
+1. **File Sharing (GUI)**:
+   - In macOS, go to **System Preferences** > **Sharing**, enable **File Sharing**, and set permissions for **Everyone** to control how **others** can access shared files.
+   
+2. **SSH (Terminal)**:
+   - On Linux or macOS, you can control remote access using `chmod` to adjust permissions for **others** when files are accessed via SSH.
+   
+3. **Web Server**:
+   - If you're running a web server (like Apache or Nginx), set proper permissions to control how **others** (internet users) can access web content.
+
+### Conclusion
+Yes, **others** can include people who connect to your computer over the internet or a network. Their permissions will be determined by what access you've given to **others** in the file system, such as read, write, or execute permissions. However, you need to be cautious when setting permissions for **others** to avoid unintentional access or modifications.

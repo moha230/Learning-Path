@@ -1,0 +1,28 @@
+4.2 Open Source Licensing
+
+when purchasing software three distinct components must be considered 
+
+1 Ownership 
+2 Money transfer 
+3 licensing 
+
+In most cases, the ownership of the software remains with the person or company that created
+users a granted the license to use the software 
+
+money transfer depends on the business model of the creator its the licensing that differentiate from open source software to closed source software.
+
+
+End User License Agreement (EULA)
+is a custom legal document that you must click through, indicating your acceptance
+Microsoft keeps the source code and distributes only binary copies through authorized channels
+consumer products you are allowed to install the software on one computer and are not allowed to make copies of the disk other than for a backup
+
+linux is owned by linus torvalds 
+
+GNU General Public License version 2 (GPLv2).
+the source code must be made available to anyone who ask and anyone is allowed to make changes 
+the caveat to this is that if somone makes changes he should adn distributes them they must put changes under the same license so other mau benefit 
+
+GPLv2 also says that no one is allowed to charge for distributing the source code other than the actual costs of doing so (such as copying it to removable media).
+
+Free and Open Source Software (FOSS)

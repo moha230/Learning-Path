@@ -1,0 +1,15 @@
+This passage explains the close relationship between software development and systems administration, particularly in the context of UNIX systems. Here's a breakdown of what it means:
+
+1. **Overlap of Skills**: Historically, the skills of software development (writing code) and systems administration (managing servers and networks) have overlapped. In UNIX, system administrators often needed to write scripts or code to automate tasks and manage the system efficiently.
+
+2. **Tools with Programming Features**: Many system management tools in UNIX include features that resemble programming languages. For example, system administrators use loops (a programming concept) to execute repetitive tasks automatically, saving time and effort.
+
+3. **Automation**: Some programming languages (like Bash, Python, etc.) are used extensively by system administrators to automate routine tasks, such as backups, system monitoring, and updates. This requires programming knowledge.
+
+4. **Complementary Skills**: Software development and systems administration complement each other. A system administrator benefits from understanding programming, as it helps automate complex tasks, manage systems efficiently, and troubleshoot issues effectively.
+
+5. **Basic Familiarity with Programming**: The passage emphasizes that to be a competent systems administrator, you need at least a basic understanding of programming because of the need to automate and manage systems through scripting and other tools.
+
+In short, the message is that software development and systems administration are intertwined, especially in UNIX systems, and knowing some programming is important for effective system management.
+
+managing servers adn network 

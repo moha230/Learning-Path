@@ -1,0 +1,10 @@
+back in the day people downloaded the source code 
+setting it up compliing it and copying the files into each system 
+
+modern distributions use packages which are compressed files bundles up an application and it dependencies
+
+package manager 
+
+takes care of keeping track of which files belong to which package and even downloading updates from repositories 
+
+The most popular are from debian adn red hat 

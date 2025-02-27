@@ -1,0 +1,14 @@
+/Users/lachi.dong/Desktop/centria/C#/Part 1 -The beginning/Conditional and comparsion/bin/Debug/net8.0/Conditional and comparsion
+/Users/lachi.dong/Desktop/centria/C#/Part 1 -The beginning/Conditional and comparsion/bin/Debug/net8.0/Conditional and comparsion.deps.json
+/Users/lachi.dong/Desktop/centria/C#/Part 1 -The beginning/Conditional and comparsion/bin/Debug/net8.0/Conditional and comparsion.runtimeconfig.json
+/Users/lachi.dong/Desktop/centria/C#/Part 1 -The beginning/Conditional and comparsion/bin/Debug/net8.0/Conditional and comparsion.dll
+/Users/lachi.dong/Desktop/centria/C#/Part 1 -The beginning/Conditional and comparsion/bin/Debug/net8.0/Conditional and comparsion.pdb
+/Users/lachi.dong/Desktop/centria/C#/Part 1 -The beginning/Conditional and comparsion/obj/Debug/net8.0/Conditional and comparsion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lachi.dong/Desktop/centria/C#/Part 1 -The beginning/Conditional and comparsion/obj/Debug/net8.0/Conditional and comparsion.AssemblyInfoInputs.cache
+/Users/lachi.dong/Desktop/centria/C#/Part 1 -The beginning/Conditional and comparsion/obj/Debug/net8.0/Conditional and comparsion.AssemblyInfo.cs
+/Users/lachi.dong/Desktop/centria/C#/Part 1 -The beginning/Conditional and comparsion/obj/Debug/net8.0/Conditional and comparsion.csproj.CoreCompileInputs.cache
+/Users/lachi.dong/Desktop/centria/C#/Part 1 -The beginning/Conditional and comparsion/obj/Debug/net8.0/Conditional and comparsion.dll
+/Users/lachi.dong/Desktop/centria/C#/Part 1 -The beginning/Conditional and comparsion/obj/Debug/net8.0/refint/Conditional and comparsion.dll
+/Users/lachi.dong/Desktop/centria/C#/Part 1 -The beginning/Conditional and comparsion/obj/Debug/net8.0/Conditional and comparsion.pdb
+/Users/lachi.dong/Desktop/centria/C#/Part 1 -The beginning/Conditional and comparsion/obj/Debug/net8.0/Conditional and comparsion.genruntimeconfig.cache
+/Users/lachi.dong/Desktop/centria/C#/Part 1 -The beginning/Conditional and comparsion/obj/Debug/net8.0/ref/Conditional and comparsion.dll

@@ -1,0 +1,28 @@
+Other notable email clients are Evolution and KMail which are the GNOME and KDE projects' email clients. Standardization through POP and IMAP and local email formats means that it’s easy to switch between email clients without losing data.
+
+Thunderbird
+the standrdization through POP and IMAP and local emial fromats means that its easy to switch beteen email and clients with out lossing data 
+
+POP psot office protocol 
+IMAP internet message access protocol 
+
+are two protocols used to retrive emails from a mail server to the client 
+
+ POP (Post Office Protocol)
+Current Version: POP3 (the third version of the protocol).
+Primary Use: POP is designed for downloading emails from the mail server to a local device (computer, phone, etc.), after which they are typically deleted from the server.
+
+POP3 lack synchronize due to deleting the emails from the server and 
+by default emails are deleted from teh server 
+
+IMAP Internet message access protocol
+version IMAP4 
+is desgined to keep emails onn the server synchronize them acrross multiple devices . message remain on the server and are only cached or temporraliy doen laod to local devices .
+
+key characteristics 
+server based email storage 
+synchronization acros devices = changes made to email deleteing and marking them as read ar syncded accroo alldevices 
+folder and organizations = it allows users to create adn manage folders 
+partial download  = when using the IMPA protocol only the headers may be downloadied and the user may get the full content if the user clicks in the email.
+
+

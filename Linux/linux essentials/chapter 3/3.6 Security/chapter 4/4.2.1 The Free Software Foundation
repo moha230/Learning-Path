@@ -1,0 +1,12 @@
+4.2.1 The Free Software Foundation
+
+Free Software Foundation
+In this context, the word "free" does not refer to the price, but to the freedom to share, study, and modify the underlying source code
+
+copyleft  According to FSF, "copyleft is a general method for making a program (or other work) free (in the sense of freedom, not "zero price"), and requiring all modified and extended versions of the program to be free as well".
+
+Digital Rights Management (DRM) which restrict what can be done with compliant programs.
+
+Open Source Initiative
+
+The changes between GPLv2 and GPLv3 largely focused on using free software on a closed hardware device which has been coined Tivoization. TiVo is a company that builds a television digital video recorder on their own hardware and used Linux as the base for their software. While TiVo released the source code to their version of Linux as required under GPLv2, the hardware would not run any modified binaries. In the eyes of the FSF, this went against the spirit of the GPLv2, so they added a specific clause to version 3 of the license. Linus Torvalds agrees with TiVo on this matter and has chosen to stay with GPLv2.

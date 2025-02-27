@@ -1,0 +1,30 @@
+The Debian distribution, and its derivatives such as Ubuntu and Mint, use the Debian package management system
+
+1. dpkg = debian package manager 
+
+the dpkg doesnt handle dependencies automatically 
+
+2. apt = advance package tool 
+this are high level tools built on top of dpkg they make it easier to install and update packages 
+by handling dependencies automatically  
+when you install packages with apt it automatically  checks for required packages adn installs them
+it can also update packages search for packages and repositories and remove packages 
+
+3. Aptitude is another front end APT more user friendly alternative it includes command line and text based user interface 
+
+it also manages dependencies and offers a bit more interactivity compared to apt-get.
+
+GUI front end tools like 
+
+synaptic and software center 
+
+
+summery 
+
+dpkg debian package manager most basic tool and does not manage dependencies 
+
+apt-get/apt makes package management easier by handling dependencies automatically
+
+aptitude provides more interactivity and an alternative interface for managing packages 
+
+synaptic and software center offer graphical interface to make it easy for users to install and remove packages without using the command line 

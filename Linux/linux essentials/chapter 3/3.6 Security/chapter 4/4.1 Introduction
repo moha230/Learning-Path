@@ -1,0 +1,27 @@
+4.1 Introduction
+
+source code human readable set of computer instructions
+
+closed source license user has the right to use the machine code also known as binary or executable 
+but cannot seethe source code 
+the license explicitly states that user may not attempt to reverse engineer the machine code to source code o figure what it does.
+
+interpreting program 
+
+open source philosophy 
+
+the user has the right to obtain the software source code and modify adn expand it for his personal use 
+
+creating a community of developers and users accountability for bugs security adn vulnerability and compatibility for bugs security become a shared responsibility 
+
+agreement by all = user should have access to the source code.
+differ = is on how one can or must redistribute changes 
+
+X/open specifications needed to be compatible 
+
+standardiziation of application programming interfaces APi 
+
+offers one program written for specific to be ported to run in another unix/linux system 
+
+EEE (Institute of Electrical and Electronics Engineers)
+POSIX (Portable Operating System Interface)

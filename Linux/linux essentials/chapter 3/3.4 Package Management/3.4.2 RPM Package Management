@@ -1,0 +1,19 @@
+Linux Standards Base, which is a Linux Foundation project,
+
+according to the linux standard base RPM package standard package maneger is RED paackage manager 
+
+.rpm file for each software package 
+
+RPM makes use of an .rpm file for each software package. This system is what distributions derived from Red Hat, including Centos and Fedora, use to manage software. Several other distributions that are not Red Hat derived, such as SUSE, OpenSUSE, and Arch, also use RPM.
+
+Like the Debian system, RPM Package Management systems track dependencies between packages. Tracking dependencies ensures that when a package is installed, the system also installs any packages needed by that package to function correctly.
+
+backend tools 
+rpm command can nstall update query and remove packages 
+front end tools such as 
+yum adn up2date automate the proces of resolving dependcy issue 
+
+front end programs are the part of the system or application that interact direcly with the users 
+backe edn are programs that interact with programs 
+
+if the command affect the state of the package administartive acces is required 

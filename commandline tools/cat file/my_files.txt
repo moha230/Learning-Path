@@ -1,0 +1,5 @@
+combine.text
+file1.txt
+file2.txt
+my_files.txt
+Fri Sep 20 05:07:03 EEST 2024

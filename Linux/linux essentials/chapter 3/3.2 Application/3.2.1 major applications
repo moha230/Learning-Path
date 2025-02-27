@@ -1,0 +1,109 @@
+3.2.1 Major Applications
+
+linux kernel can run a wide variety of software across many hardware platforms 
+
+a computer can act as a servers which means it handles data on other behalf 
+
+as result advantages is that linux xan simulate almost all aspects of a productions environment
+from development to testing, to verification on scaled-down hardware, which saves costs and time
+
+the linux software falls into three categories 
+- server applications 
+- desktop applications 
+- tools
+
+-##server applications 
+software that has no direct interaction with the monitor and keyboard of the machine it runs on ts purpose is to serve information to other computers, called clients. Sometimes server applications may not talk to other computers but only sit there and crunch data.
+includes = 
+Web Servers:
+Apache HTTP Server or Nginx: Serve web pages to clients via browsers using HTTP.
+
+Database Servers:
+MySQL or PostgreSQL: Manage and serve data to clients like web applications or other software.
+
+File Servers:
+Samba or NFS (Network File System): Store and share files with other computers on the network.
+
+Mail Servers:
+Postfix or Microsoft Exchange: Manage the sending and receiving of email.
+
+Game Servers:
+Minecraft Server: Handle multiplayer interactions and gameplay mechanics for online players.
+
+API Servers:
+Node.js with Express or Flask: Serve JSON or XML data in response to HTTP requests, often used in web or mobile app backends.
+
+Application Servers:
+Tomcat or JBoss: Provide environments to run web applications (like Java servlets or JSP pages).
+
+DNS Servers:
+BIND (Berkeley Internet Name Domain): Resolve domain names to IP addresses.
+
+Caching Servers:
+Redis or Memcached: Store frequently requested data in memory for faster access.
+
+Proxy Servers:
+Squid or HAProxy: Forward requests to servers on behalf of clients, often used for load balancing or security.
+
+-##desktop applications 
+thsi are software that the user enteract directly such as web browsers
+
+-##tools 
+software that is used to manage a computer 
+
+Tools are software applications that help users manage, configure, and develop computer systems. Here are some examples of different types of tools:
+
+1. System Management Tools:
+Task Manager (Windows) or htop (Linux): Monitor and manage system resources like CPU, memory, and running processes.
+Control Panel (Windows) or GNOME Settings (Linux): Configure system settings like display, network, and hardware.
+
+2. Command Line Interfaces (CLI) / Shells:
+Bash (Linux) or PowerShell (Windows): Provide a text-based interface to interact with the operating system by typing commands.
+zsh: An extended shell, improving upon Bash with features like auto-completion and custom themes.
+
+3. Package Managers:
+apt (Linux, Ubuntu) or Homebrew (macOS): Manage software installation, updates, and removal.
+npm (Node.js) or pip (Python): Manage libraries or dependencies in development environments.
+
+4. Compilers:
+GCC (GNU Compiler Collection): Translates C, C++, and other languages into machine code.
+Javac: The Java compiler that converts Java source code into bytecode, which can be executed by the Java Virtual Machine (JVM).
+
+5. Integrated Development Environments (IDEs):
+Visual Studio Code or IntelliJ IDEA: Provide an environment to write, compile, and debug code, along with integrated tools for version control and project management.
+
+6. Network Tools:
+Wireshark: A network protocol analyzer for capturing and inspecting data traffic.
+ping and traceroute: Command-line tools for testing network connectivity and diagnosing network issues.
+
+7. Version Control Systems:
+Git: A version control tool that tracks changes to codebases, allowing multiple developers to collaborate.
+Subversion (SVN): Another popular version control system used for managing project files over time.
+
+8. Disk Management Tools:
+GParted (Linux) or Disk Management (Windows): Tools to manage hard drive partitions and file systems.
+CHKDSK (Windows): A tool to check and repair disk errors.
+
+9. Text Editors:
+Vim or Nano: Command-line text editors used to edit configuration files or code.
+Notepad++: A lightweight GUI text editor often used for programming and system configuration.
+
+10. Virtualization and Container Tools:
+VirtualBox or VMware: Software that allows you to run virtual machines (VMs).
+Docker: A tool for containerization, allowing you to package applications and their dependencies in isolated environments.
+
+11. Monitoring Tools:
+Nagios or Prometheus: Used to monitor system performance, uptime, and health of servers or networks.
+Grafana: A tool for visualizing performance data from various monitoring sources.
+
+12. Debugging Tools:
+GDB (GNU Debugger): A debugger for programs written in C, C++, and other languages.
+LLDB: The debugger that comes with LLVM, used for debugging code written in C, C++, and Objective-C.
+
+13. Backup and Recovery Tools:
+rsync (Linux): A command-line tool for synchronizing files and directories between different locations.
+Time Machine (macOS): A tool for automated backups and recovery of files.
+These tools help users, administrators, and developers manage systems, develop software, and keep everything running smoothly.
+
+
+Evaluating application software is an important skill to be learned by the aspiring Linux administrator.

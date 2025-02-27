@@ -1,0 +1,5 @@
+Encryption is probably the best-known and most widely-deployed privacy tool in use today. Administrators deploy encryption with authentication keys on almost every system that communicates with the outside world. One well-known example is the HyperText Transfer Protocol Secure (HTTPS) standard used on web servers to ensure that data transmitted between users and online resources cannot be intercepted as it travels on the open Interne
+
+Virtual private networks (VPN) have been in use by companies to connect their remote servers and employees for many years. Now they are gaining popularity amongst ordinary users looking to protect their privacy online. They work by creating an encrypted channel of communication between two systems, so the data transmitted between them is s
+
+The Tor project has long been involved in creating privacy tools like it’s Tor Browser that works by relaying internet requests through a network of servers that prevents websites and others from learning the identity of the person making the request.

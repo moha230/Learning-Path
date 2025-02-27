@@ -1,0 +1,14 @@
+/Users/lachi.dong/Desktop/centria/C#/Part 5 timer/bin/Debug/net8.0/Part 5 timer
+/Users/lachi.dong/Desktop/centria/C#/Part 5 timer/bin/Debug/net8.0/Part 5 timer.deps.json
+/Users/lachi.dong/Desktop/centria/C#/Part 5 timer/bin/Debug/net8.0/Part 5 timer.runtimeconfig.json
+/Users/lachi.dong/Desktop/centria/C#/Part 5 timer/bin/Debug/net8.0/Part 5 timer.dll
+/Users/lachi.dong/Desktop/centria/C#/Part 5 timer/bin/Debug/net8.0/Part 5 timer.pdb
+/Users/lachi.dong/Desktop/centria/C#/Part 5 timer/obj/Debug/net8.0/Part 5 timer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lachi.dong/Desktop/centria/C#/Part 5 timer/obj/Debug/net8.0/Part 5 timer.AssemblyInfoInputs.cache
+/Users/lachi.dong/Desktop/centria/C#/Part 5 timer/obj/Debug/net8.0/Part 5 timer.AssemblyInfo.cs
+/Users/lachi.dong/Desktop/centria/C#/Part 5 timer/obj/Debug/net8.0/Part 5 timer.csproj.CoreCompileInputs.cache
+/Users/lachi.dong/Desktop/centria/C#/Part 5 timer/obj/Debug/net8.0/Part 5 timer.dll
+/Users/lachi.dong/Desktop/centria/C#/Part 5 timer/obj/Debug/net8.0/refint/Part 5 timer.dll
+/Users/lachi.dong/Desktop/centria/C#/Part 5 timer/obj/Debug/net8.0/Part 5 timer.pdb
+/Users/lachi.dong/Desktop/centria/C#/Part 5 timer/obj/Debug/net8.0/Part 5 timer.genruntimeconfig.cache
+/Users/lachi.dong/Desktop/centria/C#/Part 5 timer/obj/Debug/net8.0/ref/Part 5 timer.dll

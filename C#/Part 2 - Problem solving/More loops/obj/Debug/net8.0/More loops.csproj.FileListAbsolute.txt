@@ -1,0 +1,14 @@
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/More loops/bin/Debug/net8.0/More loops
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/More loops/bin/Debug/net8.0/More loops.deps.json
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/More loops/bin/Debug/net8.0/More loops.runtimeconfig.json
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/More loops/bin/Debug/net8.0/More loops.dll
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/More loops/bin/Debug/net8.0/More loops.pdb
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/More loops/obj/Debug/net8.0/More loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/More loops/obj/Debug/net8.0/More loops.AssemblyInfoInputs.cache
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/More loops/obj/Debug/net8.0/More loops.AssemblyInfo.cs
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/More loops/obj/Debug/net8.0/More loops.csproj.CoreCompileInputs.cache
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/More loops/obj/Debug/net8.0/More loops.dll
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/More loops/obj/Debug/net8.0/refint/More loops.dll
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/More loops/obj/Debug/net8.0/More loops.pdb
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/More loops/obj/Debug/net8.0/More loops.genruntimeconfig.cache
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/More loops/obj/Debug/net8.0/ref/More loops.dll

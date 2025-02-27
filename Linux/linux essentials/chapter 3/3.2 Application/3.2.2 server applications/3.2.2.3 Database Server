@@ -1,0 +1,12 @@
+3.2.2.3 Database Servers
+Database server applications form the backbone of most online services.
+
+dynamic web pages pull data from and write data to this applications 
+
+data base application such as mariadb 
+
+mariadb is a community developed fork of the Mysql relational database managment system 
+
+It is just one of many database servers used for web development as different requirements dictate the best application for the required tasks.
+
+A database stores information and also allows for easy retrieval and querying. Some other popular databases are Firebird and PostgreSQL.

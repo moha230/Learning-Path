@@ -1,0 +1,53 @@
+3.3.1 Shells
+
+at basic levels the users interact with  a linux system through a shell weather conneting to the system remotely of rom an attached keyboard 
+
+shells perpose is to accepts commands 
+
+file manipulations 
+starting applications 
+pass them to the linux kernel for execution
+
+there two types of families of shells 
+bourne shell and the c shell 
+
+The Bourne shell family consists of several Unix/Linux shells that are derived from or influenced by the original **Bourne shell (sh)**. Here’s a list of some prominent members:
+
+1. **Bourne Shell (sh)**:  
+   The original shell developed by Stephen Bourne at Bell Labs for UNIX in the late 1970s. It became the default shell for Unix systems.
+
+2. **Korn Shell (ksh)**:  
+   Developed by David Korn at AT&T Bell Labs, this shell extended the Bourne shell with additional features like command-line editing, more control structures, and associative arrays.
+
+3. **Bash (Bourne Again Shell)**:  
+   One of the most widely used shells, Bash was developed as part of the GNU Project and serves as the default shell for most Linux distributions. It incorporates features from both the Bourne shell and the C shell (csh).
+
+4. **Almquist Shell (ash)**:  
+   A lightweight Bourne shell clone created by Kenneth Almquist, primarily designed for resource-limited environments. It’s often used in embedded systems.
+
+5. **Dash (Debian Almquist Shell)**:  
+   A modern, POSIX-compliant variant of the Almquist shell used in Debian and Ubuntu as the default system shell. It is known for being lightweight and fast, often used for system scripts.
+
+6. **Z Shell (zsh)**:  
+   While primarily influenced by the Bourne shell, Zsh also incorporates features from other shells like the Korn shell and C shell. It’s highly customizable and supports advanced features like plugins and themes.
+
+7. **BusyBox Shell (hush)**:  
+   A minimalist shell used in the BusyBox toolkit, primarily for embedded systems. It’s a lightweight Bourne shell implementation designed for environments with limited resources.
+
+These shells maintain compatibility with the Bourne shell while extending its functionality with new features, making them popular choices in Unix-like systems.
+
+The C shell family consists of Unix/Linux shells that are derived from or inspired by the original **C shell (csh)**. The C shell was designed to resemble the syntax of the C programming language, providing features aimed at making scripting and interactive use more user-friendly. Here's a list of prominent members of the C shell family:
+
+1. **C Shell (csh)**:  
+   The original C shell developed by Bill Joy in the late 1970s at the University of California, Berkeley (BSD UNIX). It introduced features like **history**, **aliases**, **job control**, and **C-like syntax** for scripting.
+
+2. **TENEX C Shell (tcsh)**:  
+   A widely used enhanced version of the C shell. **tcsh** includes additional features such as **command-line editing**, **auto-completion**, and other user-friendly improvements while maintaining compatibility with C shell scripting.
+
+3. **Hamilton C Shell**:  
+   A commercial implementation of the C shell designed for Windows systems. It offers many C shell features for scripting in the Windows environment.
+
+4. **BSD C Shell**:  
+   Derived from the original **csh** in BSD UNIX, this shell is still found in some BSD-based operating systems (like FreeBSD, OpenBSD). It retains most of the original C shell features.
+
+The C shell family, while not as widely used today as the Bourne shell family (due to some limitations in scripting and error handling), introduced innovative features like job control and history mechanisms that influenced later shell developments. **tcsh** remains a popular shell for interactive use due to its advanced user-oriented features.

@@ -1,0 +1,14 @@
+/Users/lachi.dong/Desktop/centria/C#/Part 3 List and Arrays/obj/Debug/net8.0/Part 3 List and Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lachi.dong/Desktop/centria/C#/Part 3 List and Arrays/obj/Debug/net8.0/Part 3 List and Arrays.AssemblyInfoInputs.cache
+/Users/lachi.dong/Desktop/centria/C#/Part 3 List and Arrays/obj/Debug/net8.0/Part 3 List and Arrays.AssemblyInfo.cs
+/Users/lachi.dong/Desktop/centria/C#/Part 3 List and Arrays/obj/Debug/net8.0/Part 3 List and Arrays.csproj.CoreCompileInputs.cache
+/Users/lachi.dong/Desktop/centria/C#/Part 3 List and Arrays/bin/Debug/net8.0/Part 3 List and Arrays
+/Users/lachi.dong/Desktop/centria/C#/Part 3 List and Arrays/bin/Debug/net8.0/Part 3 List and Arrays.deps.json
+/Users/lachi.dong/Desktop/centria/C#/Part 3 List and Arrays/bin/Debug/net8.0/Part 3 List and Arrays.runtimeconfig.json
+/Users/lachi.dong/Desktop/centria/C#/Part 3 List and Arrays/bin/Debug/net8.0/Part 3 List and Arrays.dll
+/Users/lachi.dong/Desktop/centria/C#/Part 3 List and Arrays/bin/Debug/net8.0/Part 3 List and Arrays.pdb
+/Users/lachi.dong/Desktop/centria/C#/Part 3 List and Arrays/obj/Debug/net8.0/Part 3 List and Arrays.dll
+/Users/lachi.dong/Desktop/centria/C#/Part 3 List and Arrays/obj/Debug/net8.0/refint/Part 3 List and Arrays.dll
+/Users/lachi.dong/Desktop/centria/C#/Part 3 List and Arrays/obj/Debug/net8.0/Part 3 List and Arrays.pdb
+/Users/lachi.dong/Desktop/centria/C#/Part 3 List and Arrays/obj/Debug/net8.0/Part 3 List and Arrays.genruntimeconfig.cache
+/Users/lachi.dong/Desktop/centria/C#/Part 3 List and Arrays/obj/Debug/net8.0/ref/Part 3 List and Arrays.dll

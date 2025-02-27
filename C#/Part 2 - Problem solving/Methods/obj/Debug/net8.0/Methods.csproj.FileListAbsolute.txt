@@ -1,0 +1,14 @@
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/Methods/obj/Debug/net8.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/Methods/obj/Debug/net8.0/Methods.AssemblyInfoInputs.cache
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/Methods/obj/Debug/net8.0/Methods.AssemblyInfo.cs
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/Methods/obj/Debug/net8.0/Methods.csproj.CoreCompileInputs.cache
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/Methods/bin/Debug/net8.0/Methods
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/Methods/bin/Debug/net8.0/Methods.deps.json
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/Methods/bin/Debug/net8.0/Methods.runtimeconfig.json
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/Methods/bin/Debug/net8.0/Methods.dll
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/Methods/bin/Debug/net8.0/Methods.pdb
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/Methods/obj/Debug/net8.0/Methods.dll
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/Methods/obj/Debug/net8.0/refint/Methods.dll
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/Methods/obj/Debug/net8.0/Methods.pdb
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/Methods/obj/Debug/net8.0/Methods.genruntimeconfig.cache
+/Users/lachi.dong/Desktop/centria/C#/Part 2 - Problem solving/Methods/obj/Debug/net8.0/ref/Methods.dll

@@ -1,0 +1,6 @@
+Explanation With Using Statement
+Automatic Disposal: In this example, the StreamReader is automatically disposed of at the end of the using block, ensuring that the resources are released without needing a finally block.
+Simplicity: The code is cleaner and more concise, reducing the chance of errors.
+Summary
+Without Using Statement: Requires manual management of resources, which can lead to errors and resource leaks if not handled properly.
+With Using Statement: Automatically manages resource disposal, leading to cleaner, safer, and more maintainable code.

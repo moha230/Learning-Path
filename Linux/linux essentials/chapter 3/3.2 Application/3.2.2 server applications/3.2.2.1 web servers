@@ -1,0 +1,10 @@
+
+3.2.2.1 Web Servers
+
+web server host content for web pages which are viewed by a web browser using the http protocol 
+or the encrypted flavor HTTPS. 
+the web page can either be static of dynamic
+
+when the web broweser sends request a static page the web server sends the file as it appears on the disk 
+
+dynamic web page the request is sent by the web server to an application which generate the content.

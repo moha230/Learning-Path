@@ -1,0 +1,14 @@
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/NoAliasExample/bin/Debug/net8.0/NoAliasExample
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/NoAliasExample/bin/Debug/net8.0/NoAliasExample.deps.json
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/NoAliasExample/bin/Debug/net8.0/NoAliasExample.runtimeconfig.json
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/NoAliasExample/bin/Debug/net8.0/NoAliasExample.dll
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/NoAliasExample/bin/Debug/net8.0/NoAliasExample.pdb
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/NoAliasExample/obj/Debug/net8.0/NoAliasExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/NoAliasExample/obj/Debug/net8.0/NoAliasExample.AssemblyInfoInputs.cache
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/NoAliasExample/obj/Debug/net8.0/NoAliasExample.AssemblyInfo.cs
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/NoAliasExample/obj/Debug/net8.0/NoAliasExample.csproj.CoreCompileInputs.cache
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/NoAliasExample/obj/Debug/net8.0/NoAliasExample.dll
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/NoAliasExample/obj/Debug/net8.0/refint/NoAliasExample.dll
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/NoAliasExample/obj/Debug/net8.0/NoAliasExample.pdb
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/NoAliasExample/obj/Debug/net8.0/NoAliasExample.genruntimeconfig.cache
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/Alias/NoAliasExample/obj/Debug/net8.0/ref/NoAliasExample.dll

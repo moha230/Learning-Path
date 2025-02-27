@@ -1,0 +1,30 @@
+3.2 Applications
+
+kernel is like an air trafic controller at an airport 
+the applications are the airplanes under its control 
+the kernel choses which application get the block of memory 
+it stats and kills applications 
+it handles displaying text or graphics on a monitor 
+
+
+application make request to the kernel and in return get receive resources such as memory CPU nad disk space 
+
+
+kernel abstract some complicated details away from the applications
+the applications dont know if a block of disk is a solid state drive a spinning metal hard disk or even a network file share 
+application need only follow the kernel application programming interface Applications 
+
+Each application behaves as if it has large block of memory 
+
+kernel maintains this illusion by remapping smaller blocks of memory sharing blocks of memory with other applications or even swapping out untouched blocks of disk .
+
+kernel handles this switching fo applications called multitasking 
+
+
+when user thiink of applications we tend to ttjink of word processors web browsers adn emails clients 
+
+the kernal does not differentiate between a user facing appplication a network service that talks to a remote computer or an internal task 
+
+form this we get an abstraction called processes
+
+processes is just one task that is loaded and tracked by kernel 

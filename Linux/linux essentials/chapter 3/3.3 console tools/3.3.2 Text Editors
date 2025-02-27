@@ -1,0 +1,11 @@
+3.3.2 Text Editors
+
+first text editor is vi or mordern one is vim and emacs
+
+plugins can be either syntax high lighting of software projects to integrated calendars 
+
+Both Vi and Emacs are complex and have a steep learning curve,
+
+pico and nano are available on most systems and provide very basic text editing 
+
+The Nano editor was developed as a completely open source editor that is loosely based on Pico, as the license for Pico is not an open source license and forbids making changes and distributing it.

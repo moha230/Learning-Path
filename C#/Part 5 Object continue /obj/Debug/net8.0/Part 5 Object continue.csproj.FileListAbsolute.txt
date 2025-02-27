@@ -1,0 +1,14 @@
+/Users/lachi.dong/Desktop/centria/C#/Part 5 Object continue /bin/Debug/net8.0/Part 5 Object continue
+/Users/lachi.dong/Desktop/centria/C#/Part 5 Object continue /bin/Debug/net8.0/Part 5 Object continue.deps.json
+/Users/lachi.dong/Desktop/centria/C#/Part 5 Object continue /bin/Debug/net8.0/Part 5 Object continue.runtimeconfig.json
+/Users/lachi.dong/Desktop/centria/C#/Part 5 Object continue /bin/Debug/net8.0/Part 5 Object continue.dll
+/Users/lachi.dong/Desktop/centria/C#/Part 5 Object continue /bin/Debug/net8.0/Part 5 Object continue.pdb
+/Users/lachi.dong/Desktop/centria/C#/Part 5 Object continue /obj/Debug/net8.0/Part 5 Object continue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lachi.dong/Desktop/centria/C#/Part 5 Object continue /obj/Debug/net8.0/Part 5 Object continue.AssemblyInfoInputs.cache
+/Users/lachi.dong/Desktop/centria/C#/Part 5 Object continue /obj/Debug/net8.0/Part 5 Object continue.AssemblyInfo.cs
+/Users/lachi.dong/Desktop/centria/C#/Part 5 Object continue /obj/Debug/net8.0/Part 5 Object continue.csproj.CoreCompileInputs.cache
+/Users/lachi.dong/Desktop/centria/C#/Part 5 Object continue /obj/Debug/net8.0/Part 5 Object continue.dll
+/Users/lachi.dong/Desktop/centria/C#/Part 5 Object continue /obj/Debug/net8.0/refint/Part 5 Object continue.dll
+/Users/lachi.dong/Desktop/centria/C#/Part 5 Object continue /obj/Debug/net8.0/Part 5 Object continue.pdb
+/Users/lachi.dong/Desktop/centria/C#/Part 5 Object continue /obj/Debug/net8.0/Part 5 Object continue.genruntimeconfig.cache
+/Users/lachi.dong/Desktop/centria/C#/Part 5 Object continue /obj/Debug/net8.0/ref/Part 5 Object continue.dll

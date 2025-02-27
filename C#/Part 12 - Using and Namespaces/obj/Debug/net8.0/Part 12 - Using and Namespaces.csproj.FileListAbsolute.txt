@@ -1,0 +1,14 @@
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/bin/Debug/net8.0/Part 12 - Using and Namespaces
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/bin/Debug/net8.0/Part 12 - Using and Namespaces.deps.json
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/bin/Debug/net8.0/Part 12 - Using and Namespaces.runtimeconfig.json
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/bin/Debug/net8.0/Part 12 - Using and Namespaces.dll
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/bin/Debug/net8.0/Part 12 - Using and Namespaces.pdb
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/obj/Debug/net8.0/Part 12 - Using and Namespaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/obj/Debug/net8.0/Part 12 - Using and Namespaces.AssemblyInfoInputs.cache
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/obj/Debug/net8.0/Part 12 - Using and Namespaces.AssemblyInfo.cs
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/obj/Debug/net8.0/Part 12 - Using and Namespaces.csproj.CoreCompileInputs.cache
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/obj/Debug/net8.0/Part 12 - Using and Namespaces.dll
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/obj/Debug/net8.0/refint/Part 12 - Using and Namespaces.dll
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/obj/Debug/net8.0/Part 12 - Using and Namespaces.pdb
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/obj/Debug/net8.0/Part 12 - Using and Namespaces.genruntimeconfig.cache
+/Users/lachi.dong/Documents/centria/C#/Part 12 - Using and Namespaces/obj/Debug/net8.0/ref/Part 12 - Using and Namespaces.dll

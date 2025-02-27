@@ -1,0 +1,95 @@
+variables 
+we set the variable using the = 
+int truth = 42;
+we declare a variable truth and assign it a value 42
+
+integers can be concatenated to a string in other programsm
+
+int truth = 42;
+double pie = 3.1415
+bool valid =  true;
+string magic = “The magic number”;
+Console.WriteLine(magic + truth); //concatiniation 
+
+when we concatenate using the + operator it automatically converts other data types like int double and bool to their representatives when concatenated with a string 
+
+variable names must be unique inside a code block 
+declare each variable once 
+you can reassign a variable 
+
+##Assigninng a value to a variable 
+//declare a variable and assign it a value 
+int number = 42;
+with this the compiler creates the int variable and stores the value to memory 
+//we use the variable to access the store information  
+— the variable name is the reference to the value . 
+—once the reference to the value the command prints its 
+
+Console.WriteLine(number);
+
+number = 21;
+this is reassignment of the value equal sign tend to change the value 
+
+
+###Variable typing 
+
+C# variable are statically typed = means once a variable is declared into a certain type the type does not change. 
+
+This days there is a librial keyword dynamic we treat C# as static typing 
+
+we can’t declare and assign a number to a variable and reassign it with a string 
+
+int magic = 42; //declare and assign 
+magic = “Magic” reassign
+f
+for string to numbers and number to strings its not allowed 
+
+// exception you can assign an integer to a double  
+int number = 456;
+number = 456.6464;
+or 
+double decimal = 10;
+int number = 20;
+decimal = number // also works 
+
+but not the other way around 
+int  number = 4.2;
+
+Type Compatibility and Conversion
+numeric types 
+
+You can assign an int to a double no risk of data loss
+double can hold both integers and floating points numbers = implicit conversion 
+
+note explicitly cat a double to an int
+i
+
+i can assign an int to a double but can’t assign a double to an int unless explicitly cast the double to an int
+
+##naming variable
+rules for naming for naming variable 
+-cannot contain special characters such as !?åö
+-cannot contain empty spaces also called whitespaces 
+-  start with lowercase letter 
+- should be written in camera case 
+
+## reading different kinds of variables fro the user 
+
+
+dotnet new console -n name of file
+
+built in methods 
+
+# converting values to integers 
+`Convert.ToInt32()`;
+
+#convert to a decimal or double
+-`Convert.ToDouble()`
+
+#convert a valueto string 
+`convert.ToString()`
+
+## convert string value boolans 
+string truth = "True";
+bool booleanValue  = System.Convert.ToBoolean(truth);
+ 

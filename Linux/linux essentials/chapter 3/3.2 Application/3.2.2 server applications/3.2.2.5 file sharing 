@@ -1,0 +1,21 @@
+3.2.2.5 File Sharing
+
+windows file sharing samba is the clear winner 
+samba allow a linux machine to behave like a windows machine so it can share files and participate in a windows  domain 
+Samba implements the server components, such as making files available for sharing and certain Windows server roles, and also the client end so that a Linux machine may consume a Windows file share.
+
+DNS useed to conver a domain name into an unique ip address of the machine 
+
+
+Netatalk project 
+
+The Netatalk project lets a Linux machine perform as an Apple Macintosh file server.
+DNS also holds global information like the address of the MTA for a given domain name
+
+Internet Software Consortium maintains the most popular DNS server, simply called bind after the name of the process that runs the service.
+
+The Lightweight Directory Access Protocol (LDAP) is one common directory system which also powers Microsoft’s Active Directory.
+
+OpenLDAP is the dominant program used in Linux infrastructure.
+
+Dynamic Host Configuration Protocol (DHCP)

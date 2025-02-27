@@ -1,0 +1,79 @@
+interpreted or compiled lanaguages 
+
+interpreted languages Translates the written code into machine code as the program runs 
+
+you give the source code and dont need to run it using interpreter
+javascript sent as source code 
+
+
+
+complied languages is Translated all at once C is a compiled language 
+
+source code is staring with me and i can send the  executable  
+
+advantages 
+ready to run not cross platform
+
+intermediate approach intermediate language 
+
+compiled language c.c++, objective-C
+
+interpreted php ,javascript 
+
+hybrid java c# python 
+
+The Java language puts a different spin on the compiled approach. Instead of compiling to machine code, Java first imagines a hypothetical CPU called the Java Virtual Machine (JVM) and then compiles all the code to that. Each host computer then runs JVM software to translate the JVM instructions (called bytecode) into native instructions.
+
+perl 
+
+Ruby is another language that was influenced by Perl and Shell, along with many other languages. It makes complex programming tasks relatively easy, and with the inclusion of the Ruby on Rails framework, is a popular choice for building complex web applications. Ruby is also the language that powers many of the leading automation tools like Chef and Puppet, which make managing a large number of Linux systems much simpler.
+
+ ImageMagick libraries that 
+
+ OpenSSL
+
+OpenSSL is a high-level cryptographic library used for secure communications and various cryptographic tasks.
+
+The C library provides low-level functions for file operations and other fundamental programming tasks, serving as a building block for many applications across different programming languages.
+
+
+OpenSSL and SSH (Secure Shell) are both important tools in the realm of network security and cryptography, but they serve different purposes and operate at different layers of the networking stack. Here’s a detailed comparison:
+
+OpenSSL
+Definition:
+
+OpenSSL is a robust open-source cryptographic library and toolkit that implements the Secure Sockets Layer (SSL) and Transport Layer Security (TLS) protocols, along with various cryptographic algorithms.
+Primary Purpose:
+
+It provides cryptographic functions, such as encryption, decryption, and certificate generation.
+It is used to secure communications over networks (e.g., web traffic via HTTPS).
+Usage:
+
+Developers use OpenSSL to add cryptographic features to applications and services, such as web servers (e.g., Apache, Nginx), email servers, and VPNs.
+OpenSSL can also be used for command-line tasks, such as generating private keys, creating self-signed certificates, and testing SSL connections.
+Protocol Support:
+
+OpenSSL supports multiple protocols, primarily SSL and TLS, which are used to secure data in transit over the Internet.
+Programming Language:
+
+OpenSSL is primarily written in C and can be used with various programming languages through bindings or APIs.
+SSH (Secure Shell)
+Definition:
+
+SSH is a network protocol used to securely access and manage network devices and servers over an unsecured network.
+Primary Purpose:
+
+SSH provides a secure way to log into remote systems and execute commands, transfer files, and manage servers securely over an untrusted network.
+Usage:
+
+Commonly used by system administrators and developers to access remote machines, perform remote management tasks, and transfer files securely (e.g., using SCP or SFTP).
+It includes features like secure tunneling and port forwarding.
+Protocol Support:
+
+SSH is a standalone protocol that defines its own authentication, encryption, and data integrity mechanisms, ensuring that the communication between the client and server is secure.
+Client-Server Model:
+
+tls ssl are protocol that are used to secure the data that is been  transferred to the client or server 
+example buying things online the credit card is encrypted
+
+ssh si protocol used to manage resource on a remove server it tend to create a secure connection

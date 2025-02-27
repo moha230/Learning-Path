@@ -1,0 +1,2 @@
+Manual Disposal: In this example, we manually create and dispose of the StreamReader in the finally block. If an exception occurs before Close is called, the resource may not be released properly, leading to potential resource leaks.
+Complexity: More lines of code are needed to ensure that the resource is disposed of correctly, increasing the chance of errors.

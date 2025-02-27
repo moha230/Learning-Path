@@ -1,0 +1,14 @@
+/Users/lachi.dong/Documents/centria/C#/Part 11 - Random, files and exceptions/random/obj/Debug/net8.0/random.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lachi.dong/Documents/centria/C#/Part 11 - Random, files and exceptions/random/obj/Debug/net8.0/random.AssemblyInfoInputs.cache
+/Users/lachi.dong/Documents/centria/C#/Part 11 - Random, files and exceptions/random/obj/Debug/net8.0/random.AssemblyInfo.cs
+/Users/lachi.dong/Documents/centria/C#/Part 11 - Random, files and exceptions/random/obj/Debug/net8.0/random.csproj.CoreCompileInputs.cache
+/Users/lachi.dong/Documents/centria/C#/Part 11 - Random, files and exceptions/random/bin/Debug/net8.0/random
+/Users/lachi.dong/Documents/centria/C#/Part 11 - Random, files and exceptions/random/bin/Debug/net8.0/random.deps.json
+/Users/lachi.dong/Documents/centria/C#/Part 11 - Random, files and exceptions/random/bin/Debug/net8.0/random.runtimeconfig.json
+/Users/lachi.dong/Documents/centria/C#/Part 11 - Random, files and exceptions/random/bin/Debug/net8.0/random.dll
+/Users/lachi.dong/Documents/centria/C#/Part 11 - Random, files and exceptions/random/bin/Debug/net8.0/random.pdb
+/Users/lachi.dong/Documents/centria/C#/Part 11 - Random, files and exceptions/random/obj/Debug/net8.0/random.dll
+/Users/lachi.dong/Documents/centria/C#/Part 11 - Random, files and exceptions/random/obj/Debug/net8.0/refint/random.dll
+/Users/lachi.dong/Documents/centria/C#/Part 11 - Random, files and exceptions/random/obj/Debug/net8.0/random.pdb
+/Users/lachi.dong/Documents/centria/C#/Part 11 - Random, files and exceptions/random/obj/Debug/net8.0/random.genruntimeconfig.cache
+/Users/lachi.dong/Documents/centria/C#/Part 11 - Random, files and exceptions/random/obj/Debug/net8.0/ref/random.dll

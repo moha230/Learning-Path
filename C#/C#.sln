@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part 1 -The beginning", "Part 1 -The beginning", "{11F59EE2-FAB0-4D09-884E-3DC9419FE3BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 Variables ", "2 Variables ", "{8B679F78-853A-4081-A25B-09BA307742DF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "variables", "Part 1 -The beginning\2 Variables \variables\variables.csproj", "{365CF06F-5F8F-440E-BBD9-874AAED6E2AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{365CF06F-5F8F-440E-BBD9-874AAED6E2AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{365CF06F-5F8F-440E-BBD9-874AAED6E2AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{365CF06F-5F8F-440E-BBD9-874AAED6E2AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{365CF06F-5F8F-440E-BBD9-874AAED6E2AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8B679F78-853A-4081-A25B-09BA307742DF} = {11F59EE2-FAB0-4D09-884E-3DC9419FE3BA}
+		{365CF06F-5F8F-440E-BBD9-874AAED6E2AD} = {8B679F78-853A-4081-A25B-09BA307742DF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EA4B232-94D4-4999-AC95-68AD043EDE24}
+	EndGlobalSection
+EndGlobal

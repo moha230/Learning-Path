@@ -1,0 +1,14 @@
+/Users/lachi.dong/Desktop/centria/C#/Part 4 Object Oriented Programming /obj/Debug/net8.0/Part 4 Object Oriented Programming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lachi.dong/Desktop/centria/C#/Part 4 Object Oriented Programming /obj/Debug/net8.0/Part 4 Object Oriented Programming.AssemblyInfoInputs.cache
+/Users/lachi.dong/Desktop/centria/C#/Part 4 Object Oriented Programming /obj/Debug/net8.0/Part 4 Object Oriented Programming.AssemblyInfo.cs
+/Users/lachi.dong/Desktop/centria/C#/Part 4 Object Oriented Programming /obj/Debug/net8.0/Part 4 Object Oriented Programming.csproj.CoreCompileInputs.cache
+/Users/lachi.dong/Desktop/centria/C#/Part 4 Object Oriented Programming /bin/Debug/net8.0/Part 4 Object Oriented Programming
+/Users/lachi.dong/Desktop/centria/C#/Part 4 Object Oriented Programming /bin/Debug/net8.0/Part 4 Object Oriented Programming.deps.json
+/Users/lachi.dong/Desktop/centria/C#/Part 4 Object Oriented Programming /bin/Debug/net8.0/Part 4 Object Oriented Programming.runtimeconfig.json
+/Users/lachi.dong/Desktop/centria/C#/Part 4 Object Oriented Programming /bin/Debug/net8.0/Part 4 Object Oriented Programming.dll
+/Users/lachi.dong/Desktop/centria/C#/Part 4 Object Oriented Programming /bin/Debug/net8.0/Part 4 Object Oriented Programming.pdb
+/Users/lachi.dong/Desktop/centria/C#/Part 4 Object Oriented Programming /obj/Debug/net8.0/Part 4 Object Oriented Programming.dll
+/Users/lachi.dong/Desktop/centria/C#/Part 4 Object Oriented Programming /obj/Debug/net8.0/refint/Part 4 Object Oriented Programming.dll
+/Users/lachi.dong/Desktop/centria/C#/Part 4 Object Oriented Programming /obj/Debug/net8.0/Part 4 Object Oriented Programming.pdb
+/Users/lachi.dong/Desktop/centria/C#/Part 4 Object Oriented Programming /obj/Debug/net8.0/Part 4 Object Oriented Programming.genruntimeconfig.cache
+/Users/lachi.dong/Desktop/centria/C#/Part 4 Object Oriented Programming /obj/Debug/net8.0/ref/Part 4 Object Oriented Programming.dll
