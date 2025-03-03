@@ -1,0 +1,15 @@
+/Users/lachi.dong/Documents/centria/Learning path/C#/Part 9 - Inheritance and Interfaces/interface/example/bin/Debug/net8.0/example
+/Users/lachi.dong/Documents/centria/Learning path/C#/Part 9 - Inheritance and Interfaces/interface/example/bin/Debug/net8.0/example.deps.json
+/Users/lachi.dong/Documents/centria/Learning path/C#/Part 9 - Inheritance and Interfaces/interface/example/bin/Debug/net8.0/example.runtimeconfig.json
+/Users/lachi.dong/Documents/centria/Learning path/C#/Part 9 - Inheritance and Interfaces/interface/example/bin/Debug/net8.0/example.dll
+/Users/lachi.dong/Documents/centria/Learning path/C#/Part 9 - Inheritance and Interfaces/interface/example/bin/Debug/net8.0/example.pdb
+/Users/lachi.dong/Documents/centria/Learning path/C#/Part 9 - Inheritance and Interfaces/interface/example/obj/Debug/net8.0/example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lachi.dong/Documents/centria/Learning path/C#/Part 9 - Inheritance and Interfaces/interface/example/obj/Debug/net8.0/example.AssemblyInfoInputs.cache
+/Users/lachi.dong/Documents/centria/Learning path/C#/Part 9 - Inheritance and Interfaces/interface/example/obj/Debug/net8.0/example.AssemblyInfo.cs
+/Users/lachi.dong/Documents/centria/Learning path/C#/Part 9 - Inheritance and Interfaces/interface/example/obj/Debug/net8.0/example.csproj.CoreCompileInputs.cache
+/Users/lachi.dong/Documents/centria/Learning path/C#/Part 9 - Inheritance and Interfaces/interface/example/obj/Debug/net8.0/example.sourcelink.json
+/Users/lachi.dong/Documents/centria/Learning path/C#/Part 9 - Inheritance and Interfaces/interface/example/obj/Debug/net8.0/example.dll
+/Users/lachi.dong/Documents/centria/Learning path/C#/Part 9 - Inheritance and Interfaces/interface/example/obj/Debug/net8.0/refint/example.dll
+/Users/lachi.dong/Documents/centria/Learning path/C#/Part 9 - Inheritance and Interfaces/interface/example/obj/Debug/net8.0/example.pdb
+/Users/lachi.dong/Documents/centria/Learning path/C#/Part 9 - Inheritance and Interfaces/interface/example/obj/Debug/net8.0/example.genruntimeconfig.cache
+/Users/lachi.dong/Documents/centria/Learning path/C#/Part 9 - Inheritance and Interfaces/interface/example/obj/Debug/net8.0/ref/example.dll

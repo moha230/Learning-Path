@@ -1,0 +1,4 @@
+interface IPet
+{
+    void Play();
+}
