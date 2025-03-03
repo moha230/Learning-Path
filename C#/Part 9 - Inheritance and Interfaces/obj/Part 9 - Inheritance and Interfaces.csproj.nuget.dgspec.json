@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lachi.dong/Documents/centria/C#/Part 9 - Inheritance and Interfaces/Part 9 - Inheritance and Interfaces.csproj": {}
+    "/Users/lachi.dong/Documents/centria/Learning path/C#/Part 9 - Inheritance and Interfaces/Part 9 - Inheritance and Interfaces.csproj": {}
   },
   "projects": {
-    "/Users/lachi.dong/Documents/centria/C#/Part 9 - Inheritance and Interfaces/Part 9 - Inheritance and Interfaces.csproj": {
+    "/Users/lachi.dong/Documents/centria/Learning path/C#/Part 9 - Inheritance and Interfaces/Part 9 - Inheritance and Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lachi.dong/Documents/centria/C#/Part 9 - Inheritance and Interfaces/Part 9 - Inheritance and Interfaces.csproj",
+        "projectUniqueName": "/Users/lachi.dong/Documents/centria/Learning path/C#/Part 9 - Inheritance and Interfaces/Part 9 - Inheritance and Interfaces.csproj",
         "projectName": "Part 9 - Inheritance and Interfaces",
-        "projectPath": "/Users/lachi.dong/Documents/centria/C#/Part 9 - Inheritance and Interfaces/Part 9 - Inheritance and Interfaces.csproj",
+        "projectPath": "/Users/lachi.dong/Documents/centria/Learning path/C#/Part 9 - Inheritance and Interfaces/Part 9 - Inheritance and Interfaces.csproj",
         "packagesPath": "/Users/lachi.dong/.nuget/packages/",
-        "outputPath": "/Users/lachi.dong/Documents/centria/C#/Part 9 - Inheritance and Interfaces/obj/",
+        "outputPath": "/Users/lachi.dong/Documents/centria/Learning path/C#/Part 9 - Inheritance and Interfaces/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/lachi.dong/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,15 @@
+/Users/lachi.dong/Documents/centria/Learning path/C#/Part 9 - Inheritance and Interfaces/obj/Debug/net8.0/Part 9 - Inheritance and Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lachi.dong/Documents/centria/Learning path/C#/Part 9 - Inheritance and Interfaces/obj/Debug/net8.0/Part 9 - Inheritance and Interfaces.AssemblyInfoInputs.cache
+/Users/lachi.dong/Documents/centria/Learning path/C#/Part 9 - Inheritance and Interfaces/obj/Debug/net8.0/Part 9 - Inheritance and Interfaces.AssemblyInfo.cs
+/Users/lachi.dong/Documents/centria/Learning path/C#/Part 9 - Inheritance and Interfaces/obj/Debug/net8.0/Part 9 - Inheritance and Interfaces.csproj.CoreCompileInputs.cache
+/Users/lachi.dong/Documents/centria/Learning path/C#/Part 9 - Inheritance and Interfaces/obj/Debug/net8.0/Part 9 - Inheritance and Interfaces.sourcelink.json
+/Users/lachi.dong/Documents/centria/Learning path/C#/Part 9 - Inheritance and Interfaces/bin/Debug/net8.0/Part 9 - Inheritance and Interfaces
+/Users/lachi.dong/Documents/centria/Learning path/C#/Part 9 - Inheritance and Interfaces/bin/Debug/net8.0/Part 9 - Inheritance and Interfaces.deps.json
+/Users/lachi.dong/Documents/centria/Learning path/C#/Part 9 - Inheritance and Interfaces/bin/Debug/net8.0/Part 9 - Inheritance and Interfaces.runtimeconfig.json
+/Users/lachi.dong/Documents/centria/Learning path/C#/Part 9 - Inheritance and Interfaces/bin/Debug/net8.0/Part 9 - Inheritance and Interfaces.dll
+/Users/lachi.dong/Documents/centria/Learning path/C#/Part 9 - Inheritance and Interfaces/bin/Debug/net8.0/Part 9 - Inheritance and Interfaces.pdb
+/Users/lachi.dong/Documents/centria/Learning path/C#/Part 9 - Inheritance and Interfaces/obj/Debug/net8.0/Part 9 - Inheritance and Interfaces.dll
+/Users/lachi.dong/Documents/centria/Learning path/C#/Part 9 - Inheritance and Interfaces/obj/Debug/net8.0/refint/Part 9 - Inheritance and Interfaces.dll
+/Users/lachi.dong/Documents/centria/Learning path/C#/Part 9 - Inheritance and Interfaces/obj/Debug/net8.0/Part 9 - Inheritance and Interfaces.pdb
+/Users/lachi.dong/Documents/centria/Learning path/C#/Part 9 - Inheritance and Interfaces/obj/Debug/net8.0/Part 9 - Inheritance and Interfaces.genruntimeconfig.cache
+/Users/lachi.dong/Documents/centria/Learning path/C#/Part 9 - Inheritance and Interfaces/obj/Debug/net8.0/ref/Part 9 - Inheritance and Interfaces.dll
